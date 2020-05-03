@@ -1,0 +1,5 @@
+/home/alex/Projects/ForLoop/ForLoop/bin/Debug/ForLoop.exe
+/home/alex/Projects/ForLoop/ForLoop/bin/Debug/ForLoop.pdb
+/home/alex/Projects/ForLoop/ForLoop/obj/x86/Debug/ForLoop.csprojAssemblyReference.cache
+/home/alex/Projects/ForLoop/ForLoop/obj/x86/Debug/ForLoop.exe
+/home/alex/Projects/ForLoop/ForLoop/obj/x86/Debug/ForLoop.pdb
